@@ -1,0 +1,20 @@
+---
+title: "Think Wisely..."
+image: "Images/ChocoCake.jpg"
+links:
+  - label: '<i class="fa-solid fa-mug-hot fa-bounce"></i> Drinks'
+    url: 'https://twitter.com/R_Girls_School target="_blank"'
+  - label: '<i class="fa-solid fa-cake-candles"></i> CAKE!'
+    url: 'https://github.com/R-Girls target="_blank"'
+  - label: '<i class="fa-solid fa-phone"></i> Call me'
+    url: "mailto:maryam.nawaz@greenoak.bham.sch.uk"
+output:
+  postcards::solana
+site: distill::distill_website
+---
+ 
+## Introduction
+Hi. I sell food. I sell pastries and stuff. Pls buy. I'm broke. :'( Also Think Wisely about what you're buying...`r emo::ji("smirk")` 
+
+
+![Red Velvet](Images/Red Velvet.jpg) 
