@@ -1,0 +1,24 @@
+---
+title: "Unnecassary Info"
+description: This is info.
+  
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+This is where you find the BORING rules. Before I get a friend to write down the rules in depth, all you need to think is 'I steal, I get hurt, I go to jail' `r emo::ji("wink")` 
+
+Rules:
+-do not steal
+
+-do not make a mess
+
+-do not fight anyone. This is an all peace territory
+
+-do not ruin the cakes or you will get banned.
+
+-lastly, do NOT anger Wisely
+
+![](Images/Smileyface.jpg)
